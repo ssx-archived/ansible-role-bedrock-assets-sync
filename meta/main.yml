@@ -10,5 +10,8 @@ galaxy_info:
     'wordpress',
     'assets'
   ]
-
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
 dependencies: []
