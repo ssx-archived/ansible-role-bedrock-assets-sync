@@ -3,7 +3,7 @@ galaxy_info:
   description: This allows bedrock Wordpress users to pull/push their assets from/to the live server.
   company: Lesniak Swann Ltd
   license: MIT
-  min_ansible_version: 1.2
+  min_ansible_version: 1.9
   github_branch: master 
   galaxy_tags: [
     'bedrock',
